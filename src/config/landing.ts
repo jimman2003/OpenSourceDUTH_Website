@@ -64,45 +64,45 @@ export const Projects: Project[] = [
 
 export const testimonials = [
   {
-    name: "Leokratis",
+    name: "Leokratis Mpakratsas",
     job: "Full Stack Developer",
     image: "/src/icons/teamPlaceholder.jpg",
     review: "Lorem ipsum odor amet, consectetuer adipiscing elit. Turpis luctus cras rhoncus nunc cubilia habitant aptent amet. Nisl sociosqu vel duis cras; sociosqu nisl natoque. Nibh suspendisse egestas ex; pulvinar consectetur rhoncus. Sem turpis fringilla viverra senectus ad ultricies. Sodales auctor cubilia; laoreet nunc auctor hac dictumst.",
     link: "https://drive.google.com/file/d/1qiL6SM4Ym9TmZvLgi8YazzHJwJ-rs27e/view?usp=sharing",
   },
   {
-    name: "Michael",
+    name: "Michael Selvesakis",
     job: "Full Stack Developer & SysAdmin",
     image: "/src/icons/teamPlaceholder.jpg",
     review: "Quisque magnis magna posuere ultrices urna. Dolor ac magna aliquam vehicula facilisi elit. Etiam proin montes vehicula nulla nisl placerat fames inceptos euismod. Erat augue massa magna mollis potenti sollicitudin netus. Sociosqu purus a dolor dignissim est rhoncus phasellus. Semper magna sociosqu sodales elementum etiam ac. Per vehicula rutrum dictumst, volutpat per tristique.",
     link: "https://drive.google.com/file/d/1OywmHnfgYvT0EtIttPE04NEwlU1k9jk7/view?usp=drive_link",
   },
   {
-    name: "Vasiliki",
-    job: "Project Manager",
+    name: "Vasiliki Konou",
+    job: "Project Manager & Full Stack Developer",
     image: "/src/icons/teamPlaceholder.jpg",
     review: "Nunc gravida elit lorem finibus enim eros felis laoreet. Lorem convallis est, sit vehicula malesuada vivamus velit. Vitae pretium integer aenean nullam aliquet eget turpis facilisi. Faucibus vehicula torquent orci libero sodales tellus mauris. Vivamus quam risus purus a elit eu, iaculis parturient. Porttitor conubia suscipit volutpat himenaeos nisl aenean aliquet leo. Ipsum sociosqu proin risus; interdum mi donec fames leo phasellus. Curae euismod mauris conubia pulvinar leo quisque..",
     link: "https://drive.google.com/file/d/1O7AMkns7VipSVLc5CBTXU6gOGjHjYlyT/view?usp=drive_link",
   },
   {
-    name: "Vasilis",
-    job: "Marketing Manager",
+    name: "Vasilis Christofas",
+    job: "Embedded Engineer",
     image: "/src/icons/teamPlaceholder.jpg",
     review: "Euismod mauris eu maecenas porttitor nam sit commodo eros. Nostra enim arcu sollicitudin interdum metus a pulvinar justo. Lobortis odio lorem hendrerit varius ipsum himenaeos. Luctus porttitor purus ad est porta quam semper. Consectetur odio laoreet diam semper nullam. Accumsan id suscipit condimentum sodales egestas.    ",
     link: "https://drive.google.com/file/d/1t5dGa8n3D1AsNx7FPsPukHRHC_ajlqqX/view?usp=drive_link",
   },
   {
-    name: "Dimitris",
+    name: "Dimitris Manos",
     job: "Data Analyst",
     image: "/src/icons/teamPlaceholder.jpg",
     review: "next-saas-stripe-starter provided me with the tools I needed to efficiently manage user data...",
     link: "https://drive.google.com/file/d/11AFE4xG0IqlR7P192UPXKpb4PWKsH-8d/view?usp=sharing",
   },
   {
-    name: "Sotiris",
+    name: "Sotiris Papasotiriou",
     job: "DevOps Engineer",
     image: "/src/icons/teamPlaceholder.jpg",
     review: "Dapibus magnis metus dolor vehicula conubia primis felis. At habitant ligula nec; sapien vivamus phasellus vel porta. At lacinia lectus; elit per amet vivamus! Ac duis elit per; commodo habitant et diam curabitur. Semper vivamus cras commodo primis massa ante blandit nec. Lectus nibh cubilia enim conubia nullam integer. Nullam tellus varius ad dignissim dis. Quis platea ut fringilla maximus ipsum. Sed platea malesuada lectus dis aliquam.",
-    link: "/cv/sotiris.pdf",
+    link: "https://drive.google.com/file/d/1Rw0ShtTUytSfwdjEiD4s3Hm4O42ju_Oj/view?usp=sharing",
   }
 ];
